@@ -166,6 +166,20 @@
           "src/main/resources/assets/ancient_ruins/models/item/literium_ore.json"
         ]
       }
+    },
+    {
+      "name": "Steelitem",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "steelitem",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/ancientruins/item/SteelitemItem.java",
+          "src/main/resources/assets/ancient_ruins/models/item/steelitem.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -177,6 +191,7 @@
       "gui.ancient_ruins.anvilgui.button_craft": "Craft",
       "itemGroup.tabdrievniie_ruiny": "Древние Руины",
       "block.ancient_ruins.blockes": "Ядро",
+      "item.ancient_ruins.steelitem": "Steel",
       "block.ancient_ruins.anvil": "Anvil"
     }
   },
