@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "steel_ig",
     "customModelName": "Normal",
-    "name": "Steel",
+    "name": "Steel ingot",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:DrievniieRuiny"
